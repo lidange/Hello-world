@@ -1,3 +1,6 @@
 # Hello-world
 just another repository
-hello,everybody. My name is lidange. I am interested in design and netwok. I hope I can have a good master of python through hard working in the next days.
+Hi lidange!
+lidange here, I like Node. js and Coffeescript(that's what I'm made of!).
+I've had tacos on the moon and find them far superior to Earth tacos.
+
